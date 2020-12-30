@@ -2,4 +2,4 @@ Problem Statement : Parse the HTML file (test_html.txt) attached and extract
 All valid URLs and domains.
 If it is a URL divide it into PROTOCOL, DOMAIN, URI PATH and Query String.
 Extract all Valid IP addresses, based upon different classes.
-Extract all valid email addresses.
+Extract all valid email addresses from file.
